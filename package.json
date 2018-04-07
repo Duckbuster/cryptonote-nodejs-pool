@@ -12,10 +12,10 @@
         "base58-native": "*",
         "bignum": "*",
         "cli-color": "*",
+        "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
         "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util.git#xmr-Nan-2.0",
         "dateformat": "*",
         "mailgun.js": "*",
-        "multi-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
         "nodemailer": "2.7.2",
         "nodemailer-sendmail-transport": "*",
         "redis": "*"
