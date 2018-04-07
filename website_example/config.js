@@ -1,7 +1,7 @@
 var api = "https://swimmingpool.lolisandstuff.moe:8119";
 var poolHost = "swimmingpool.lolisandstuff.moe";
 
-var email = "support@lolisandstuff.moe";
+var email = "duckbuster@lolisandstuff.moe";
 var telegram = "";
 var discord = "https://discord.gg/SPvKFxx";
 

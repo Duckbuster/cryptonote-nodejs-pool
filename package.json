@@ -8,17 +8,17 @@
         "url": "https://github.com/dvandal/cryptonote-nodejs-pool.git"
     },
     "dependencies": {
-        "bignum": "*",
         "async": "1",
-        "redis": "*",
-        "cli-color": "*",
-        "dateformat": "*",
         "base58-native": "*",
-        "nodemailer": "2.7.2",
-        "nodemailer-sendmail-transport" : "*",
+        "bignum": "*",
+        "cli-color": "*",
+        "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util.git#xmr-Nan-2.0",
+        "dateformat": "*",
         "mailgun.js": "*",
-        "multi-hashing": "git://github.com/dvandal/node-multi-hashing.git#Nan-2.0",
-        "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util#xmr-Nan-2.0"
+        "multi-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
+        "nodemailer": "2.7.2",
+        "nodemailer-sendmail-transport": "*",
+        "redis": "*"
     },
     "engines": {
         "node": ">=4.0"
